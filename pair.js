@@ -70,7 +70,7 @@ ______________________________
 ║ 『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
 ║❍ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: https://youtube.com/@1stguru454?si=vYwPQ-bZtHgXsDfs
 ║❍ 𝐎𝐰𝐧𝐞𝐫: _t.me/Guru_1st
-║❍ 𝐑𝐞𝐩𝐨: _https://github.com/keithkeizzah/HUNCHO-MD_
+║❍ 𝐑𝐞𝐩𝐨: _https://github.com/GURUMD-TECH/WHITE-PANTHER-V6
 ║❍ 𝐓𝐞𝐥𝐆𝐫𝐨𝐮𝐩: _https://t.me/botgurumd
 ║❍ 𝐓𝐄𝐋𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://t.me/botgurumd
 ║❍ 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: _https://www.instagram.com/offialguru_6
