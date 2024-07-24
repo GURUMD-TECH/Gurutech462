@@ -58,11 +58,11 @@ router.get('/', async (req, res) => {
 
                let LEGACY_MD_TEXT = `
 *𝐒𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐧𝐧𝐞𝐜𝐭𝐞𝐝*
-*𝐄𝐧𝐣𝐨𝐲😺*
-*By _𝐖𝐇𝐈𝐓𝐄-𝐏𝐀𝐍𝐓𝐇𝐄𝐑-𝐕6_*
+*𝐄𝐧𝐣𝐨𝐲🦁*
+* _𝐓𝐇𝐄 𝐎𝐆_*
 ______________________________
 ╔════◇
-║『 𝐖𝐇𝐈𝐓𝐄 𝐏𝐀𝐍𝐓𝐇𝐄𝐑 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃 』
+║『 𝐓𝐇𝐄 𝐎𝐆 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃 』
 ║ You've Completed the First Step
 ║ to Deploy a Whatsapp Bot.
 ╚══════════════╝
@@ -70,13 +70,13 @@ ______________________________
 ║ 『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
 ║❍ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: https://youtube.com/@1stguru454?si=vYwPQ-bZtHgXsDfs
 ║❍ 𝐎𝐰𝐧𝐞𝐫: _t.me/Guru_1st
-║❍ 𝐑𝐞𝐩𝐨: _https://github.com/GURUMD-TECH/WHITE-PANTHER-V6
+║❍ 𝐑𝐞𝐩𝐨: _https://github.com/GURUMD-TECH/THE-OG
 ║❍ 𝐓𝐞𝐥𝐆𝐫𝐨𝐮𝐩: _https://t.me/botgurumd
 ║❍ 𝐓𝐄𝐋𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://t.me/botgurumd
 ║❍ 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: _https://www.instagram.com/offialguru_6
 ║ ☬ ☬ ☬ ☬
 ╚══════════════╝ 
- 𒂀 𝐖𝐇𝐈𝐓𝐄 𝐏𝐀𝐍𝐓𝐇𝐄𝐑 𝐕6
+ 𒂀 _𝐓𝐇𝐄 𝐎𝐆_
 ______________________________
 
 Don't Forget To Give Star⭐ To My Repo`
